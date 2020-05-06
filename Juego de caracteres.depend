@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1443645894 source:c:\users\magus\desktop\juego de caracteres\juego de caracteres\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	"Headers/Archivos.h"
+	"Headers/Clases.h"
+	"Headers/Menues.h"
+
+1443645894 c:\users\magus\desktop\juego de caracteres\juego de caracteres\headers\clases.h
+
+1443645180 c:\users\magus\desktop\juego de caracteres\juego de caracteres\headers\menues.h
+
+1443646328 c:\users\magus\desktop\juego de caracteres\juego de caracteres\headers\archivos.h
+
+1443711591 source:c:\users\backup_labs\desktop\juego de caracteres\juego de caracteres\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	"Headers/Archivos.h"
+	"Headers/Clases.h"
+	"Headers/Menues.h"
+
+1443646330 c:\users\backup_labs\desktop\juego de caracteres\juego de caracteres\headers\archivos.h
+
+1443705573 c:\users\backup_labs\desktop\juego de caracteres\juego de caracteres\headers\clases.h
+
+1443645182 c:\users\backup_labs\desktop\juego de caracteres\juego de caracteres\headers\menues.h
+
+1462837647 source:d:\back total\juego de caracteres\juego de caracteres\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	"Headers/Archivos.h"
+	"Headers/Clases.h"
+	"Headers/Menues.h"
+
+1443646330 d:\back total\juego de caracteres\juego de caracteres\headers\archivos.h
+
+1443705574 d:\back total\juego de caracteres\juego de caracteres\headers\clases.h
+
+1443645182 d:\back total\juego de caracteres\juego de caracteres\headers\menues.h
+
